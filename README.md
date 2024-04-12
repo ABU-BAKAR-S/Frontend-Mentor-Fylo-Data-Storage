@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ solution URL ](https://your-solution-url.com)
-- Live Site URL: [ live site URL ](https://your-live-site-url.com)
+- Solution URL: [ solution URL ](https://github.com/ABU-BAKAR-S/Frontend-Mentor-Fylo-Data-Storage)
+- Live Site URL: [ live site URL ](https://abu-bakar-s.github.io/Frontend-Mentor-Fylo-Data-Storage/)
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [Abu Bakar Siddik](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Abu Bakar Siddik](https://www.frontendmentor.io/profile/ABU-BAKAR-S)
